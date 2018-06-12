@@ -12,11 +12,7 @@ bin-release/
 *.air
 *.ipa
 *.apk
-target
-target/*
 *.class
-.idea
-.idea/*
 dubbo-learn.iml
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
