@@ -12,6 +12,7 @@ bin-release/
 *.air
 *.ipa
 *.apk
+target
 target/*
 *.class
 .idea
